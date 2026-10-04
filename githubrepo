@@ -1,2 +1,478 @@
-curl -H "Accept: application/vnd.github+json" https://api.github.com/repos/sneha12393/expressBookReviews
-<complete output here>
+$ curl -H "Accept: application/vnd.github+json" https://api.github.com/repos/sneha12393/expressBookReviews
+{
+  "id": 1403956582,
+  "node_id": "R_kgDOU66tZg",
+  "name": "expressBookReviews",
+  "full_name": "sneha12393/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "sneha12393",
+    "id": 207427497,
+    "node_id": "U_kgDODF0XqQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/207427497?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sneha12393",
+    "html_url": "https://github.com/sneha12393",
+    "followers_url": "https://api.github.com/users/sneha12393/followers",
+    "following_url": "https://api.github.com/users/sneha12393/following{/other_u
+ser}",
+    "gists_url": "https://api.github.com/users/sneha12393/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sneha12393/starred{/owner}{/rep
+o}",
+    "subscriptions_url": "https://api.github.com/users/sneha12393/subscriptions"
+,
+    "organizations_url": "https://api.github.com/users/sneha12393/orgs",
+    "repos_url": "https://api.github.com/users/sneha12393/repos",
+    "events_url": "https://api.github.com/users/sneha12393/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sneha12393/received_eve
+nts",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "html_url": "https://github.com/sneha12393/expressBookReviews",
+  "description": "nodejsFinalModule",
+  "fork": true,
+  "url": "https://api.github.com/repos/sneha12393/expressBookReviews",
+  "forks_url": "https://api.github.com/repos/sneha12393/expressBookReviews/forks
+",
+  "keys_url": "https://api.github.com/repos/sneha12393/expressBookReviews/keys{/
+key_id}",
+  "collaborators_url": "https://api.github.com/repos/sneha12393/expressBookRevie
+ws/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/sneha12393/expressBookReviews/teams
+",
+  "hooks_url": "https://api.github.com/repos/sneha12393/expressBookReviews/hooks
+",
+  "issue_events_url": "https://api.github.com/repos/sneha12393/expressBookReview
+s/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/sneha12393/expressBookReviews/even
+ts",
+  "assignees_url": "https://api.github.com/repos/sneha12393/expressBookReviews/a
+ssignees{/user}",
+  "branches_url": "https://api.github.com/repos/sneha12393/expressBookReviews/br
+anches{/branch}",
+  "tags_url": "https://api.github.com/repos/sneha12393/expressBookReviews/tags",
+  "blobs_url": "https://api.github.com/repos/sneha12393/expressBookReviews/git/b
+lobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/sneha12393/expressBookReviews/gi
+t/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/sneha12393/expressBookReviews/gi
+t/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/sneha12393/expressBookReviews/git/t
+rees{/sha}",
+  "statuses_url": "https://api.github.com/repos/sneha12393/expressBookReviews/st
+atuses/{sha}",
+  "languages_url": "https://api.github.com/repos/sneha12393/expressBookReviews/l
+anguages",
+  "stargazers_url": "https://api.github.com/repos/sneha12393/expressBookReviews/
+stargazers",
+  "contributors_url": "https://api.github.com/repos/sneha12393/expressBookReview
+s/contributors",
+  "subscribers_url": "https://api.github.com/repos/sneha12393/expressBookReviews
+/subscribers",
+  "subscription_url": "https://api.github.com/repos/sneha12393/expressBookReview
+s/subscription",
+  "commits_url": "https://api.github.com/repos/sneha12393/expressBookReviews/com
+mits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/sneha12393/expressBookReviews
+/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/sneha12393/expressBookReviews/co
+mments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/sneha12393/expressBookRevie
+ws/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/sneha12393/expressBookReviews/co
+ntents/{+path}",
+  "compare_url": "https://api.github.com/repos/sneha12393/expressBookReviews/com
+pare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/sneha12393/expressBookReviews/merg
+es",
+  "archive_url": "https://api.github.com/repos/sneha12393/expressBookReviews/{ar
+chive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/sneha12393/expressBookReviews/d
+ownloads",
+  "issues_url": "https://api.github.com/repos/sneha12393/expressBookReviews/issu
+es{/number}",
+  "pulls_url": "https://api.github.com/repos/sneha12393/expressBookReviews/pulls
+{/number}",
+  "milestones_url": "https://api.github.com/repos/sneha12393/expressBookReviews/
+milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/sneha12393/expressBookRevie
+ws/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/sneha12393/expressBookReviews/labe
+ls{/name}",
+  "releases_url": "https://api.github.com/repos/sneha12393/expressBookReviews/re
+leases{/id}",
+  "deployments_url": "https://api.github.com/repos/sneha12393/expressBookReviews
+/deployments",
+  "created_at": "2026-10-04T05:38:21Z",
+  "updated_at": "2026-10-04T06:36:07Z",
+  "pushed_at": "2026-10-04T06:35:56Z",
+  "git_url": "git://github.com/sneha12393/expressBookReviews.git",
+  "ssh_url": "git@github.com:sneha12393/expressBookReviews.git",
+  "clone_url": "https://github.com/sneha12393/expressBookReviews.git",
+  "svn_url": "https://github.com/sneha12393/expressBookReviews",
+  "homepage": null,
+  "size": 1136,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "JavaScript",
+  "has_issues": false,
+  "has_projects": true,
+  "has_downloads": false,
+  "has_wiki": true,
+  "has_pages": false,
+  "has_discussions": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "disabled": false,
+  "open_issues_count": 0,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "allow_forking": true,
+  "is_template": false,
+  "web_commit_signoff_required": false,
+  "has_pull_requests": true,
+  "pull_request_creation_policy": "all",
+  "topics": [
+
+  ],
+  "visibility": "public",
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "main",
+  "temp_clone_token": null,
+  "parent": {
+    "id": 533628036,
+    "node_id": "R_kgDOH86EhA",
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 70551872,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNTUxODcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70551872?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+      "followers_url": "https://api.github.com/users/ibm-developer-skills-networ
+k/followers",
+      "following_url": "https://api.github.com/users/ibm-developer-skills-networ
+k/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ibm-developer-skills-network/gi
+sts{/gist_id}",
+      "starred_url": "https://api.github.com/users/ibm-developer-skills-network/
+starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ibm-developer-skills-ne
+twork/subscriptions",
+      "organizations_url": "https://api.github.com/users/ibm-developer-skills-ne
+twork/orgs",
+      "repos_url": "https://api.github.com/users/ibm-developer-skills-network/re
+pos",
+      "events_url": "https://api.github.com/users/ibm-developer-skills-network/e
+vents{/privacy}",
+      "received_events_url": "https://api.github.com/users/ibm-developer-skills-
+network/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookRevi
+ews",
+    "description": "nodejsFinalModule",
+    "fork": false,
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/expressBoo
+kReviews",
+    "forks_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/forks",
+    "keys_url": "https://api.github.com/repos/ibm-developer-skills-network/expre
+ssBookReviews/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/teams",
+    "hooks_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/hooks",
+    "issue_events_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/events",
+    "assignees_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ibm-developer-skills-network/expre
+ssBookReviews/tags",
+    "blobs_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/languages",
+    "stargazers_url": "https://api.github.com/repos/ibm-developer-skills-network
+/expressBookReviews/stargazers",
+    "contributors_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/contributors",
+    "subscribers_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/subscribers",
+    "subscription_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/subscription",
+    "commits_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/merges",
+    "archive_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/downloads",
+    "issues_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ibm-developer-skills-network
+/expressBookReviews/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/deployments",
+    "created_at": "2022-09-07T06:01:35Z",
+    "updated_at": "2026-10-03T10:45:13Z",
+    "pushed_at": "2024-08-16T07:35:29Z",
+    "git_url": "git://github.com/ibm-developer-skills-network/expressBookReviews
+.git",
+    "ssh_url": "git@github.com:ibm-developer-skills-network/expressBookReviews.g
+it",
+    "clone_url": "https://github.com/ibm-developer-skills-network/expressBookRev
+iews.git",
+    "svn_url": "https://github.com/ibm-developer-skills-network/expressBookRevie
+ws",
+    "homepage": null,
+    "size": 1136,
+    "stargazers_count": 30,
+    "watchers_count": 30,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": false,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 13409,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 282,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+
+    ],
+    "visibility": "public",
+    "forks": 13409,
+    "open_issues": 282,
+    "watchers": 30,
+    "default_branch": "main"
+  },
+  "source": {
+    "id": 533628036,
+    "node_id": "R_kgDOH86EhA",
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "private": false,
+    "owner": {
+      "login": "ibm-developer-skills-network",
+      "id": 70551872,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNTUxODcy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70551872?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+      "followers_url": "https://api.github.com/users/ibm-developer-skills-networ
+k/followers",
+      "following_url": "https://api.github.com/users/ibm-developer-skills-networ
+k/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ibm-developer-skills-network/gi
+sts{/gist_id}",
+      "starred_url": "https://api.github.com/users/ibm-developer-skills-network/
+starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ibm-developer-skills-ne
+twork/subscriptions",
+      "organizations_url": "https://api.github.com/users/ibm-developer-skills-ne
+twork/orgs",
+      "repos_url": "https://api.github.com/users/ibm-developer-skills-network/re
+pos",
+      "events_url": "https://api.github.com/users/ibm-developer-skills-network/e
+vents{/privacy}",
+      "received_events_url": "https://api.github.com/users/ibm-developer-skills-
+network/received_events",
+      "type": "Organization",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookRevi
+ews",
+    "description": "nodejsFinalModule",
+    "fork": false,
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/expressBoo
+kReviews",
+    "forks_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/forks",
+    "keys_url": "https://api.github.com/repos/ibm-developer-skills-network/expre
+ssBookReviews/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/teams",
+    "hooks_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/hooks",
+    "issue_events_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/events",
+    "assignees_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/ibm-developer-skills-network/expre
+ssBookReviews/tags",
+    "blobs_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/languages",
+    "stargazers_url": "https://api.github.com/repos/ibm-developer-skills-network
+/expressBookReviews/stargazers",
+    "contributors_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/contributors",
+    "subscribers_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/subscribers",
+    "subscription_url": "https://api.github.com/repos/ibm-developer-skills-netwo
+rk/expressBookReviews/subscription",
+    "commits_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/merges",
+    "archive_url": "https://api.github.com/repos/ibm-developer-skills-network/ex
+pressBookReviews/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/ibm-developer-skills-network/
+expressBookReviews/downloads",
+    "issues_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/ibm-developer-skills-network/expr
+essBookReviews/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/ibm-developer-skills-network
+/expressBookReviews/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/ibm-developer-skills-netw
+ork/expressBookReviews/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/ibm-developer-skills-network/exp
+ressBookReviews/labels{/name}",
+    "releases_url": "https://api.github.com/repos/ibm-developer-skills-network/e
+xpressBookReviews/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/ibm-developer-skills-networ
+k/expressBookReviews/deployments",
+    "created_at": "2022-09-07T06:01:35Z",
+    "updated_at": "2026-10-03T10:45:13Z",
+    "pushed_at": "2024-08-16T07:35:29Z",
+    "git_url": "git://github.com/ibm-developer-skills-network/expressBookReviews
+.git",
+    "ssh_url": "git@github.com:ibm-developer-skills-network/expressBookReviews.g
+it",
+    "clone_url": "https://github.com/ibm-developer-skills-network/expressBookRev
+iews.git",
+    "svn_url": "https://github.com/ibm-developer-skills-network/expressBookRevie
+ws",
+    "homepage": null,
+    "size": 1136,
+    "stargazers_count": 30,
+    "watchers_count": 30,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": false,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 13409,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 282,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+
+    ],
+    "visibility": "public",
+    "forks": 13409,
+    "open_issues": 282,
+    "watchers": 30,
+    "default_branch": "main"
+  },
+  "network_count": 13409,
+  "subscribers_count": 0
+}
